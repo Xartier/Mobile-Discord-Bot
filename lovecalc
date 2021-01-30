@@ -1,0 +1,10 @@
+$nomention
+$argsCheck[<2;Mention 2 users!]
+$title[<your title>]
+$description[1I rate <@$mentioned[1] and <@$mentioned[2] a $random[0;100] out of 100!]
+$footer[<your footer>]
+$color[00000]
+
+// DELETE THIS
+you can change the "<your title> , <your footer>" if you dont want those as always
+and change the color by using a hex code
