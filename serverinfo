@@ -1,0 +1,33 @@
+$color[00000]
+$nomention
+$serverinfo[__ **Server Info**__
+
+**Server: **
+`` {name} ``
+
+** Region: **
+`` {region} ``
+
+**Owner: **
+`` {owner} ``
+
+**Verification: **
+`` {verificationLvl} ``
+
+** ID: **
+`` {ID} ``
+
+** Channels: **
+`` $channelCount ``
+
+**Members: **
+`` {memberCount} ``
+
+Online: ** $membersCount[online]** | Offline: ** $membersCount[offline] ** | Do Not Disturb: ** membersCount[dnd] ** | AFK: ** membersCount[idle] **
+
+** Emojis: **
+{emoji}]
+
+// DELETE THIS
+dont change anything expect the color
+psa: this was edited by one of my friends ^
