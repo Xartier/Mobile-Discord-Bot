@@ -1,0 +1,18 @@
+$nomention
+``$userInfo[__ **User info** __
+
+**Username: **
+`` {username} ``
+
+** UserID **
+`` {ID} ``
+
+** Verified **
+`` {verified} ``
+
+** Discriminator **
+`` {discriminator} ``
+
+** Bot: **
+`` {BOT}`` ]
+``
