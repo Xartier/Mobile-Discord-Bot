@@ -1,0 +1,14 @@
+$nomention
+$onlyIf[$mentioned[1]!=;]
+$title[$username[$mentioned[1]]
+avatar!]
+$description[<your description>]
+$footer[<your footer>]
+$color[00000]
+$image[$userAvatar[$mentioned[1]]]
+
+
+/// DELETE THIS 
+for color had a hex code
+remove the "<your footer> , <your description>" if you dont want any of those
+dont mess with anything else
